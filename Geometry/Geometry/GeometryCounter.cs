@@ -1,6 +1,6 @@
 ﻿namespace Geometry
 {
-    public class GeometryCounter
+    static class GeometryCounter
     {
         ///<summary>
         ///Count area of circle by <paramref name="radius"/>.
